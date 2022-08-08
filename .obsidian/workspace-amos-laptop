@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "f59715e28bd37d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08e128005d076f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Session 1/Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaffbda36a1db76f",
+    "type": "split",
+    "children": [
+      {
+        "id": "861a3113b1cdbc93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe556b874e4123da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d77acdddf773a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd07f204cb150dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2e9387aef5f0da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c51be317bcf0699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Session 1/Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "650bf6b12191e5c5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d08e128005d076f0",
+  "lastOpenFiles": [
+    "Notes/Session 1/Plan.md",
+    "erosia-basic.png",
+    "erosia-full.png",
+    "Continents/Sasia/Towns/Calderwood/Calderwood.md",
+    "Notes/Early ideas/Arc 1.md",
+    "Continents/Sasia/Towns/Calderwood/Mad Visions/Mad Visions.md",
+    "Continents/Sasia/Towns/Calderwood/High House of Hall/High House of Hall.md",
+    "Continents/Sasia/Towns/Calderwood/Enchanted Arcanity/Enchanted Arcanity.md",
+    "Continents/Ream/Cities/Kiria Arcanum/Kiria Arcanum.md",
+    "Continents/Sasia/Towns/Calderwood/People/Hugh Accord.md"
+  ]
+}

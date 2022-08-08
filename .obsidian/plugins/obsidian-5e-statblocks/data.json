@@ -1,0 +1,14 @@
+{
+  "monsters": [],
+  "layouts": [],
+  "default": "Basic 5e Layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 2,
+    "minor": 4,
+    "patch": 0
+  }
+}

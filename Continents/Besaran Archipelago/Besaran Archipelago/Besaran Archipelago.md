@@ -1,0 +1,1 @@
+Archipelago central to [[Erosia]], between [[Lehali Bay]] and the [[Lilitai Reef]]

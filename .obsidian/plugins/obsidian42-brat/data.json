@@ -1,0 +1,13 @@
+{
+  "pluginList": [
+    "valentine195/obsidian-5e-statblocks"
+  ],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true
+}

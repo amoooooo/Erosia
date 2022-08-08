@@ -1,0 +1,1 @@
+**Location**: Reef off of the west of [[Ream]], to the east of the [[Besaran Archipelago]]

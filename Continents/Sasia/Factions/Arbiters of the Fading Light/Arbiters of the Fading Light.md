@@ -1,0 +1,3 @@
+**Location**: Sanctuary of the Seven Stars
+**Description**:
+The Arbiters of the Fading Light, or Witchknights as they are more colloquially known, are a secretive group of legionaries that seemingly fight for a cause beyond the understanding of most commonfolk. Adorned in steel as black as the night, carrying swords almost the size of the wielder, these people, more often than not women, cut down any who seem to throw the balance of the Sides off kilter.

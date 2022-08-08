@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "f59715e28bd37d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4c67de401d357c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Session 1/Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaffbda36a1db76f",
+    "type": "split",
+    "children": [
+      {
+        "id": "861a3113b1cdbc93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe556b874e4123da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d77acdddf773a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd07f204cb150dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2e9387aef5f0da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c51be317bcf0699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Session 1/Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "650bf6b12191e5c5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d4c67de401d357c",
+  "lastOpenFiles": [
+    "Notes/Session 2/Notes.md",
+    "Notes/Session 3/Session 3.md",
+    "Continents/Besaran Archipelago/Religion/Deities.md",
+    "Homebrew/Subclass/Order of the Veil.md",
+    "Continents/Sasia/Towns/Calderwood/Calderwood.md",
+    "Continents/Sasia/Towns/Calderwood/The Pilgrim's Stash/The Pilgrim's Stash.md",
+    "Continents/Sasia/Towns/Calderwood/The Pilgrim's Stash/The Pilgrim's Stash.png",
+    "Notes/Session 1/Plan.md",
+    "Homebrew/Special/Gifts of the Nine.md",
+    "Homebrew/Mechanics/Guns.md"
+  ]
+}
